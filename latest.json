@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial Release",
+  "pub_date": "2026-01-05T00:00:00Z",
+  "platforms": {
+    "windows-x86_64-exe": {
+      "url": "https://queenscountyroleplay.site/downloads/QueensCountyRoleplay_0.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWxOYm5hY0xxbEc0TzI3RDl2K3g1KzdyazJIcW5oZDdFMEJDWE5UV3BFVnR6UmZZNHQreUdtc3hZVWl0RklJa2NlVjdpZktMYkdUU0w2U3NnbC9nYVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTUxNDY5CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8wLjEuMF94NjQtc2V0dXAuZXhlCll2K2tWanUvdmhpd0M4Y2toczh3QlgwNDlGUXQ2blBBTXRpZ1krNXljRUlteTdrVTRHTFlHY0VneVA5d2JxN3VFMExiV1FsUXdwaUhBcTVTeUFMNkFBPT0K"
+    },
+    "windows-x86_64-msi": {
+      "url": "https://queenscountyroleplay.site/downloads/QueensCountyRoleplay_0.1.0_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZW1zRUpZQUw1Tlk0QXd6MEFOOE5wZ1YzRlBFcFJOZldCREZFRy80c2tXdDlpS0I3aDN1QWsvRXpHZnVlRlQ2SjU2TXdvT05XNExwcW5pa0RlcFRFSFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTUxNDY5CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8wLjEuMF94NjRfZW4tVVMubXNpClZRNjV4M1haU1ZJdnp5UFVIbGR4R1dCZC9zbTVPOVZuTVZITnVFVDMyODN1bVF1b2tDYlpyRncvWW5KTDNXWVU5ZjIvV0NTZThhb2Q2d0FLWitTbUJnPT0K"
+    }
+  }
+}
