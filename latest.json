@@ -1,19 +1,19 @@
 {
-  "version": "0.1.4",
-  "notes": "Automated Windows build",
-  "pub_date": "2026-01-06T20:58:59.544Z",
+  "version": "1.0.0",
+  "notes": "Initial release",
+  "pub_date": "2026-01-06T22:04:07.182Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZW1LMXBWQ1ljeW9yNzh1a0RhVWZMcEpaY1IzYVQwZGp1d0piUzVDOC9Lb3I2NGVkRW00bVhxNmk0b1RZazEvV2ZhcERzeGZsaXExLzVMa1hGQ0JMR0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzMzMTI0CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8wLjEuNF94NjRfZW4tVVMubXNpClpEQWJDUFowWmFCR3A1b2JwTzZMVk8wUWdFdmxyaWR4UzJuWS9RVWpXLzZ2eWw1VGkyUUY1VUpMZDRucW1hSXl1S2YvRC9aYTZFVS9hemJ2WFVXZUFBPT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v0.1.4-alpha/Queens.County.Roleplay_0.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWpsS3A2eTBZenE0ZzRQS1BZbzZKSkM0dEJLVGZPTDdBNG9meUVyTGZIZFdaYUNjcE5jcm1vb0w0T3hmVUpNR2J6cmllbnUrSDNremlHcmFxNUxDRVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzM3MDI3CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMF94NjRfZW4tVVMubXNpCnArMTViQXpjVlYvZU5zVmhPd2RySnN1MDNWdmVneFo4SUROcGRlU002SGlrc1o3Rk0zTW5NaC9iZFFoYmplUDA0Y242RUhWWUdQdHh1V3NMSWM2M0JnPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.0/Queens.County.Roleplay_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZW1LMXBWQ1ljeW9yNzh1a0RhVWZMcEpaY1IzYVQwZGp1d0piUzVDOC9Lb3I2NGVkRW00bVhxNmk0b1RZazEvV2ZhcERzeGZsaXExLzVMa1hGQ0JMR0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzMzMTI0CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8wLjEuNF94NjRfZW4tVVMubXNpClpEQWJDUFowWmFCR3A1b2JwTzZMVk8wUWdFdmxyaWR4UzJuWS9RVWpXLzZ2eWw1VGkyUUY1VUpMZDRucW1hSXl1S2YvRC9aYTZFVS9hemJ2WFVXZUFBPT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v0.1.4-alpha/Queens.County.Roleplay_0.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWpsS3A2eTBZenE0ZzRQS1BZbzZKSkM0dEJLVGZPTDdBNG9meUVyTGZIZFdaYUNjcE5jcm1vb0w0T3hmVUpNR2J6cmllbnUrSDNremlHcmFxNUxDRVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzM3MDI3CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMF94NjRfZW4tVVMubXNpCnArMTViQXpjVlYvZU5zVmhPd2RySnN1MDNWdmVneFo4SUROcGRlU002SGlrc1o3Rk0zTW5NaC9iZFFoYmplUDA0Y242RUhWWUdQdHh1V3NMSWM2M0JnPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.0/Queens.County.Roleplay_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZW1sS3k0cHJ3S2N2WVgraWl2SU5SR3dLNjlIY3Q5d0F3YXNqaTEvRTd2VnNyNEN3QnNVYys5dUUydkNtY1Fja3Bjb0NJd0ZhZk00bnJWS2d2OFhTV1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzMzMTI1CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8wLjEuNF94NjQtc2V0dXAuZXhlCm0wbG1qMW1kZTBRZTNxZXRNbDFWNjlsS0c2eTkvSjhyNS9QMDNtUmhDUmcwTCtjRndQdk00RlpnSnNEd2pFbjBWRENOTzZjRXNESTQrcWpKUTZQRkRBPT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v0.1.4-alpha/Queens.County.Roleplay_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXRyTXFWMGZKdW5KdjZNeTA2ZW12U20wK0R4RGRjc29KSHFuTTRUb1gvV0J0eW5iNHc2V2NvZ05UT3Q5WWZBOVZOSUZHWk1yZUhKTWFWMGhmUlFXRndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzM3MDI3CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMF94NjQtc2V0dXAuZXhlCmVhay9kejE1VUQvaVRNN3F3V0Q4bUp4U25UTGJSSGJESHZnMzdNQU03NTJPT3NEb203WEg5KzBJNFNVRmFzajdOWmtFcGNrUGlkMlcwWFQyTDBvRUNBPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.0/Queens.County.Roleplay_1.0.0_x64-setup.exe"
     }
   }
 }
