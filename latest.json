@@ -1,15 +1,15 @@
 {
-  "version": "1.0.7",
-  "notes": "• Codebase improvements\n• Improved updater UI\n• Bug fixes and quality of life improvements",
-  "pub_date": "2026-01-20T13:45:31.609Z",
+  "version": "1.0.8",
+  "notes": "• Removed leftover updater logic\n• Improved updater modal behavior\n• Minor internal fixes and improvements",
+  "pub_date": "2026-01-20T14:44:47.688Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXNmb0tjZzBhQzlIdzRqV3RmZC9YOU9mK0ozdkgwbVFoZllOZlZHaDNETnBSN2kxaFdxcHFIMzJPNWtjSjRTQzd4UlZNVW9kRngzekQwTHpYZUlZV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTE2NzIyCWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuN194NjQtc2V0dXAuZXhlCmxZc0lwVXA5L0hSRmp5bElWOGdTTHRWbUltek5Ca0NYVFYyRmlJZjRGb0VodGd4SjdvcCtuN29TdTR6bE1kZnpuZkFyTzFFZUZiVmk0aUxLWlFDNEJ3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.7/Queens.County.Roleplay_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXVmakVuN2JlbmkzR0xJdzk1MmpFa0dOK0pJK3BxY1VtVTluN3k4Y0NHZmgrRnJkT0VBL3RmdkVISW9zYlJ4UHA5UEVIUGRYUWtMcUpRbjQ0QTJ3N3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTIwMjcxCWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuOF94NjQtc2V0dXAuZXhlCmw5TEx6NmlYTElmRFFWSUZKUENGSGsxS0sxWWVjaGtDRUg4NWVXdU1QMlAwQURjN1ZyMTNURmprbXFNUUVBNitIcjlJL2lNYlZNTzhNaVBwVWxXS0JnPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.8/Queens.County.Roleplay_1.0.8_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXNmb0tjZzBhQzlIdzRqV3RmZC9YOU9mK0ozdkgwbVFoZllOZlZHaDNETnBSN2kxaFdxcHFIMzJPNWtjSjRTQzd4UlZNVW9kRngzekQwTHpYZUlZV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTE2NzIyCWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuN194NjQtc2V0dXAuZXhlCmxZc0lwVXA5L0hSRmp5bElWOGdTTHRWbUltek5Ca0NYVFYyRmlJZjRGb0VodGd4SjdvcCtuN29TdTR6bE1kZnpuZkFyTzFFZUZiVmk0aUxLWlFDNEJ3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.7/Queens.County.Roleplay_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXVmakVuN2JlbmkzR0xJdzk1MmpFa0dOK0pJK3BxY1VtVTluN3k4Y0NHZmgrRnJkT0VBL3RmdkVISW9zYlJ4UHA5UEVIUGRYUWtMcUpRbjQ0QTJ3N3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTIwMjcxCWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuOF94NjQtc2V0dXAuZXhlCmw5TEx6NmlYTElmRFFWSUZKUENGSGsxS0sxWWVjaGtDRUg4NWVXdU1QMlAwQURjN1ZyMTNURmprbXFNUUVBNitIcjlJL2lNYlZNTzhNaVBwVWxXS0JnPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.8/Queens.County.Roleplay_1.0.8_x64-setup.exe"
     }
   }
 }
