@@ -1,15 +1,15 @@
 {
-  "version": "1.0.9",
-  "notes": "• Added a toggle for Text-to-Speech in settings\n• Implemented 5-minute cooldown for call reminders\n• Improved codebase across frontend and backend\n• Miscellaneous minor fixes and optimizations",
-  "pub_date": "2026-01-20T16:08:20.608Z",
+  "version": "1.0.10",
+  "notes": "• Improved updater UI responsiveness and fixed CSS layout issues in the settings menu.",
+  "pub_date": "2026-01-22T00:47:51.103Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWdxMWJFMm1ieG1tOWRLOG04RWpJSEVQNUpmL0JYRTd2VU1kZmRYNDU3ci9HTmtkK0N1dnd0TXRld0FpWWlEanNEL2hKaUFhNlF4MVpBMXVNTTBXa0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTI1Mjg2CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuOV94NjQtc2V0dXAuZXhlCnhGNWZSbGFLUVV4Sk1jMnh1a2p2MExreVZPL0tURHFVNzVGeHBZV1ZnL2JodUp3eGc4OE0wTjh5aFhuRDJEakxwR3hueUNRVG11TjVuWjlxWkJuc0J3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.9/Queens.County.Roleplay_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWhwUFBVMDZOVlFlRHRzbWhtaWhZVzRjc2RYR0NuWCtlTm1yS3dndzJTd2dZaGllZk5ocUJyOU1Ka0ZKTVJtdkZaakI4N2FKemdtY3lNTjlDMVdvOXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDQyODU2CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMTBfeDY0LXNldHVwLmV4ZQovU3hUVlpuQWZuL2JqS20rdW5FQVlBRXBONnQ3R3E1aDh6UmpQM1gvTk96MkxXTlJhL2xXZHJWOTBsRVAyQTRTKzduM2g2b2hHTWQrMS9OSnV4a1VCQT09Cg==",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.10/Queens.County.Roleplay_1.0.10_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWdxMWJFMm1ieG1tOWRLOG04RWpJSEVQNUpmL0JYRTd2VU1kZmRYNDU3ci9HTmtkK0N1dnd0TXRld0FpWWlEanNEL2hKaUFhNlF4MVpBMXVNTTBXa0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTI1Mjg2CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuOV94NjQtc2V0dXAuZXhlCnhGNWZSbGFLUVV4Sk1jMnh1a2p2MExreVZPL0tURHFVNzVGeHBZV1ZnL2JodUp3eGc4OE0wTjh5aFhuRDJEakxwR3hueUNRVG11TjVuWjlxWkJuc0J3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.9/Queens.County.Roleplay_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWhwUFBVMDZOVlFlRHRzbWhtaWhZVzRjc2RYR0NuWCtlTm1yS3dndzJTd2dZaGllZk5ocUJyOU1Ka0ZKTVJtdkZaakI4N2FKemdtY3lNTjlDMVdvOXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDQyODU2CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMTBfeDY0LXNldHVwLmV4ZQovU3hUVlpuQWZuL2JqS20rdW5FQVlBRXBONnQ3R3E1aDh6UmpQM1gvTk96MkxXTlJhL2xXZHJWOTBsRVAyQTRTKzduM2g2b2hHTWQrMS9OSnV4a1VCQT09Cg==",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.10/Queens.County.Roleplay_1.0.10_x64-setup.exe"
     }
   }
 }
