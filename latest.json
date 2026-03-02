@@ -1,15 +1,15 @@
 {
-  "version": "1.0.10",
-  "notes": "• Improved updater UI responsiveness and fixed CSS layout issues in the settings menu.",
-  "pub_date": "2026-01-22T00:47:51.103Z",
+  "version": "2.1.12",
+  "notes": "Release notes can be found in communications server.",
+  "pub_date": "2026-03-02T01:33:18.741Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWhwUFBVMDZOVlFlRHRzbWhtaWhZVzRjc2RYR0NuWCtlTm1yS3dndzJTd2dZaGllZk5ocUJyOU1Ka0ZKTVJtdkZaakI4N2FKemdtY3lNTjlDMVdvOXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDQyODU2CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMTBfeDY0LXNldHVwLmV4ZQovU3hUVlpuQWZuL2JqS20rdW5FQVlBRXBONnQ3R3E1aDh6UmpQM1gvTk96MkxXTlJhL2xXZHJWOTBsRVAyQTRTKzduM2g2b2hHTWQrMS9OSnV4a1VCQT09Cg==",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.10/Queens.County.Roleplay_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWpmYitGRGhCeDJDRkV0clNMbnJiL0dJKzZTWkZIb241Ymd3cGgvT2FCTjBsTVpIMlhhR1cxZ0RzR2I1Y2xPaGxPeFpaYUt5amdSOVVqL2R6MHVZNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDE1MTkyCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjEuMTJfeDY0LXNldHVwLmV4ZQpycVVwekRYU1p5Y3FBUFZwY3NpSC9ZT0pwaUJaeUdBaFJmQnJieWtPSzVmYi9LbWV2Sm9wVWM5VDEwUkw0bU1mdnhjWmIxOHlVb01hNG91Z256RW5BUT09Cg==",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.1.12/New.Hampshire.Roleplay_2.1.12_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWhwUFBVMDZOVlFlRHRzbWhtaWhZVzRjc2RYR0NuWCtlTm1yS3dndzJTd2dZaGllZk5ocUJyOU1Ka0ZKTVJtdkZaakI4N2FKemdtY3lNTjlDMVdvOXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDQyODU2CWZpbGU6UXVlZW5zIENvdW50eSBSb2xlcGxheV8xLjAuMTBfeDY0LXNldHVwLmV4ZQovU3hUVlpuQWZuL2JqS20rdW5FQVlBRXBONnQ3R3E1aDh6UmpQM1gvTk96MkxXTlJhL2xXZHJWOTBsRVAyQTRTKzduM2g2b2hHTWQrMS9OSnV4a1VCQT09Cg==",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v1.0.10/Queens.County.Roleplay_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWpmYitGRGhCeDJDRkV0clNMbnJiL0dJKzZTWkZIb241Ymd3cGgvT2FCTjBsTVpIMlhhR1cxZ0RzR2I1Y2xPaGxPeFpaYUt5amdSOVVqL2R6MHVZNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDE1MTkyCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjEuMTJfeDY0LXNldHVwLmV4ZQpycVVwekRYU1p5Y3FBUFZwY3NpSC9ZT0pwaUJaeUdBaFJmQnJieWtPSzVmYi9LbWV2Sm9wVWM5VDEwUkw0bU1mdnhjWmIxOHlVb01hNG91Z256RW5BUT09Cg==",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.1.12/New.Hampshire.Roleplay_2.1.12_x64-setup.exe"
     }
   }
 }
