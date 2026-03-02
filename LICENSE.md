@@ -1,12 +1,12 @@
 # Restricted Use License
 
-© Copyright 2026 – Queens County Roleplay
+© Copyright 2026 – New Hampshire Roleplay
 
 ## 1. Grant of License
 Subject to the terms and conditions of this License, the copyright holder ("Licensor") hereby grants any person or entity
 obtaining a copy of this software and associated documentation files (the "Software") a 
 **limited, non-exclusive, non-sublicensable license** to use the Software **solely for its intended purpose within the
-Queens County Roleplay community,** or as otherwise expressly authorized in writing by the Licensor.
+New Hampshire Roleplay community,** or as otherwise expressly authorized in writing by the Licensor.
 
 The Software is provided for controlled, authorized use only and may not be used outside the scope defined above.
 
