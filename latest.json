@@ -1,15 +1,15 @@
 {
-  "version": "2.1.12",
-  "notes": "Release notes can be found in communications server.",
-  "pub_date": "2026-03-02T01:33:18.741Z",
+  "version": "2.1.13",
+  "notes": "• Updated live map image\n• Updated penal codes\n• Various bug fixes and QOL improvements",
+  "pub_date": "2026-03-03T13:02:13.938Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWpmYitGRGhCeDJDRkV0clNMbnJiL0dJKzZTWkZIb241Ymd3cGgvT2FCTjBsTVpIMlhhR1cxZ0RzR2I1Y2xPaGxPeFpaYUt5amdSOVVqL2R6MHVZNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDE1MTkyCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjEuMTJfeDY0LXNldHVwLmV4ZQpycVVwekRYU1p5Y3FBUFZwY3NpSC9ZT0pwaUJaeUdBaFJmQnJieWtPSzVmYi9LbWV2Sm9wVWM5VDEwUkw0bU1mdnhjWmIxOHlVb01hNG91Z256RW5BUT09Cg==",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.1.12/New.Hampshire.Roleplay_2.1.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWg4Z2x3QkIxKzJ0bTIzZTNhQWluU1JHVDJqYnh2MnNpRUFqUDNHTllHS2lzcE93c01hVWdXTTFrLzNpbXRiNDJQRHc3NjZzR1owTWFMU0pQeDJjeVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTQyOTI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjEuMTNfeDY0LXNldHVwLmV4ZQo1YXhGNTI0QzUrM0VWMmJFaGFOaDRINTFnaEIyUWdWWnp4aFBqbW5wZ1NpakpmdU9TenM1TG90cklRNWo4c25vUmZpdVNoN1MwaVB2M2EzU0Ntc1dBQT09Cg==",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.1.13/New.Hampshire.Roleplay_2.1.13_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWpmYitGRGhCeDJDRkV0clNMbnJiL0dJKzZTWkZIb241Ymd3cGgvT2FCTjBsTVpIMlhhR1cxZ0RzR2I1Y2xPaGxPeFpaYUt5amdSOVVqL2R6MHVZNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDE1MTkyCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjEuMTJfeDY0LXNldHVwLmV4ZQpycVVwekRYU1p5Y3FBUFZwY3NpSC9ZT0pwaUJaeUdBaFJmQnJieWtPSzVmYi9LbWV2Sm9wVWM5VDEwUkw0bU1mdnhjWmIxOHlVb01hNG91Z256RW5BUT09Cg==",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.1.12/New.Hampshire.Roleplay_2.1.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWg4Z2x3QkIxKzJ0bTIzZTNhQWluU1JHVDJqYnh2MnNpRUFqUDNHTllHS2lzcE93c01hVWdXTTFrLzNpbXRiNDJQRHc3NjZzR1owTWFMU0pQeDJjeVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTQyOTI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjEuMTNfeDY0LXNldHVwLmV4ZQo1YXhGNTI0QzUrM0VWMmJFaGFOaDRINTFnaEIyUWdWWnp4aFBqbW5wZ1NpakpmdU9TenM1TG90cklRNWo4c25vUmZpdVNoN1MwaVB2M2EzU0Ntc1dBQT09Cg==",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.1.13/New.Hampshire.Roleplay_2.1.13_x64-setup.exe"
     }
   }
 }
