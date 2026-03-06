@@ -1,15 +1,15 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "notes": "• Added Action Log Modal\n• Added account standing page\n• Updated embed colours for API Logs\n• Going off-duty while in a ridealong now disbands the ridealong\n• Updated popup styles to match the glass-morphism theme\n• Updated Context Menu's themes\n• Added Footer to Dispatch page\n• Fixed issues with ErrorBoundary and GlobalErrorBoundary\n• Improved performance and optimized UI\n• Various bug fixes",
-  "pub_date": "2026-03-05T22:48:05.341Z",
+  "pub_date": "2026-03-06T11:37:36.813Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZW9JUlN4SXRtNXppUkptWlhBQUloUVVGOWJKZGlWUGRtMkFoeFpqZUZBL1B0MDBadGlxOWRUNGM0WXNEQ1phS1R2ZmdtUnlnemF3aWtNY0pPcktSUkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzUwODc4CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjIuMl94NjQtc2V0dXAuZXhlClEydExxRC81YnpIMXVRck92MGxzY3hoeEx6Q21nVkdNZVF1NHc3OXJYblV6eDhiS2s4MTV4ZGRnZkJDbmNNQ3UzdEJEcFBmRSt4cmN5UVZwb2wxNEN3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.2.2/New.Hampshire.Roleplay_2.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXNGTlQyVHRKZ2dJbFFGR0MycjZ1b3NsM1NSeHdzVHUvYis1WnN1S3BJcUE3SG9lUkl0S3NobTRHbHg4bzRPSXZWcXpNcWpINTZIbTdWRVRFR2dLV3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzk3MDUxCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjIuM194NjQtc2V0dXAuZXhlCjlYUEsrYUYwQVNoMzJURDgyUnRjSXZoTWZ1ZHh4SGFhWFRjSmZMcUo4MjhMS2JSYWxRbkVmT3JqcDJwck1HdkFGRWNGMHpzSXUvNU5KMENxd1NZREFRPT0K",
+      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.2.3/New.Hampshire.Roleplay_2.2.3_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZW9JUlN4SXRtNXppUkptWlhBQUloUVVGOWJKZGlWUGRtMkFoeFpqZUZBL1B0MDBadGlxOWRUNGM0WXNEQ1phS1R2ZmdtUnlnemF3aWtNY0pPcktSUkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzUwODc4CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjIuMl94NjQtc2V0dXAuZXhlClEydExxRC81YnpIMXVRck92MGxzY3hoeEx6Q21nVkdNZVF1NHc3OXJYblV6eDhiS2s4MTV4ZGRnZkJDbmNNQ3UzdEJEcFBmRSt4cmN5UVZwb2wxNEN3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.2.2/New.Hampshire.Roleplay_2.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXNGTlQyVHRKZ2dJbFFGR0MycjZ1b3NsM1NSeHdzVHUvYis1WnN1S3BJcUE3SG9lUkl0S3NobTRHbHg4bzRPSXZWcXpNcWpINTZIbTdWRVRFR2dLV3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzk3MDUxCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjIuM194NjQtc2V0dXAuZXhlCjlYUEsrYUYwQVNoMzJURDgyUnRjSXZoTWZ1ZHh4SGFhWFRjSmZMcUo4MjhMS2JSYWxRbkVmT3JqcDJwck1HdkFGRWNGMHpzSXUvNU5KMENxd1NZREFRPT0K",
+      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.2.3/New.Hampshire.Roleplay_2.2.3_x64-setup.exe"
     }
   }
 }
