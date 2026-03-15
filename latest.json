@@ -5,11 +5,11 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWtuY3RFK2FYWFRZN1VLM2ttWWNuTjhhZ2RYanMydk9tL2lId3BManExdVJka0t3K29jbnVOSk5mRkFzKzY1YWwzTlpYaW13OTJxQzZ0cXQ3UkhybXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTM4MzI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNl94NjQtc2V0dXAuZXhlCjZKQzJyUWZwQ0NEV3JzTTFKMU1ZWTZIMHJiaGFuSmJLOEEyNE03dldYTWg0M0UraHh4T3lGdkFSTEZodXdZUzlqWFlVVlN3V2JWUmU3ZXhYOUVxZ0R3PT0K",
-      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWtuY3RFK2FYWFRZN1VLM2ttWWNuTjhhZ2RYanMydk9tL2lId3BManExdVJka0t3K29jbnVOSk5mRkFzKzY1YWwzTlpYaW13OTJxQzZ0cXQ3UkhybXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTM4MzI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNl94NjQtc2V0dXAuZXhlCjZKQzJyUWZwQ0NEV3JzTTFKMU1ZWTZIMHJiaGFuSmJLOEEyNE03dldYTWg0M0UraHh4T3lGdkFSTEZodXdZUzlqWFlVVlN3V2JWUmU3ZXhYOUVxZ0R3PT0K",
-      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
     }
   }
 }
