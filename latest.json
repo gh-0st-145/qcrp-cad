@@ -1,15 +1,15 @@
 {
-  "version": "2.3.5",
-  "notes": "Added documents page\nAdded records lookup to overlay\nRedesigned records lookup\nUpdated navbar styles\nFixed issues with panic and signal notices\nFixed issues with 911 call notices\nFixed issues with styles across multiple pages\nVarious bug fixes and improvements",
-  "pub_date": "2026-03-14T22:58:52.288Z",
+  "version": "2.3.6",
+  "notes": "Addressed issues with calendar event links\nFixed ID not showing for records lookup",
+  "pub_date": "2026-03-15T01:32:20.091Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXI4T2RyMEdNc1ZwNDhnS1AxUGt6MG9GSjJiMkxUVkI3NHBLck5HdVR4NU9oTHFLbS9ZZlRCY3EwREJDVjNTTGZwK1pUZzZtY3NsNHpGYVZVOVYxdWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTI5MTI3CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNV94NjQtc2V0dXAuZXhlCnZhUUhITGpZanYzTVNVRCtaNXNva0lCQlpqanJ4T0NJWldORVhqa0p2SjhSRTZUa3k5bjZmbkEvZUNUWi9qNmVMdkYxV2RHREg4eXYwa1RRMStlREFnPT0K",
-      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.3.5/New.Hampshire.Roleplay_2.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWtuY3RFK2FYWFRZN1VLM2ttWWNuTjhhZ2RYanMydk9tL2lId3BManExdVJka0t3K29jbnVOSk5mRkFzKzY1YWwzTlpYaW13OTJxQzZ0cXQ3UkhybXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTM4MzI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNl94NjQtc2V0dXAuZXhlCjZKQzJyUWZwQ0NEV3JzTTFKMU1ZWTZIMHJiaGFuSmJLOEEyNE03dldYTWg0M0UraHh4T3lGdkFSTEZodXdZUzlqWFlVVlN3V2JWUmU3ZXhYOUVxZ0R3PT0K",
+      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXI4T2RyMEdNc1ZwNDhnS1AxUGt6MG9GSjJiMkxUVkI3NHBLck5HdVR4NU9oTHFLbS9ZZlRCY3EwREJDVjNTTGZwK1pUZzZtY3NsNHpGYVZVOVYxdWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTI5MTI3CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNV94NjQtc2V0dXAuZXhlCnZhUUhITGpZanYzTVNVRCtaNXNva0lCQlpqanJ4T0NJWldORVhqa0p2SjhSRTZUa3k5bjZmbkEvZUNUWi9qNmVMdkYxV2RHREg4eXYwa1RRMStlREFnPT0K",
-      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.3.5/New.Hampshire.Roleplay_2.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWtuY3RFK2FYWFRZN1VLM2ttWWNuTjhhZ2RYanMydk9tL2lId3BManExdVJka0t3K29jbnVOSk5mRkFzKzY1YWwzTlpYaW13OTJxQzZ0cXQ3UkhybXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTM4MzI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNl94NjQtc2V0dXAuZXhlCjZKQzJyUWZwQ0NEV3JzTTFKMU1ZWTZIMHJiaGFuSmJLOEEyNE03dldYTWg0M0UraHh4T3lGdkFSTEZodXdZUzlqWFlVVlN3V2JWUmU3ZXhYOUVxZ0R3PT0K",
+      "url": "https://github.com/gh-0st-145/queens-county-roleplay/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
     }
   }
 }
