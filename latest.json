@@ -1,15 +1,15 @@
 {
-  "version": "2.3.6",
-  "notes": "Addressed issues with calendar event links\nFixed ID not showing for records lookup",
-  "pub_date": "2026-03-15T01:32:20.091Z",
+  "version": "2.3.7",
+  "notes": "Added capability to insert images to documents\nAdded locate players and calls on map\nFixed various issues with text on documents\nUpdated outdated server names on various pages",
+  "pub_date": "2026-03-22T21:52:55.341Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWtuY3RFK2FYWFRZN1VLM2ttWWNuTjhhZ2RYanMydk9tL2lId3BManExdVJka0t3K29jbnVOSk5mRkFzKzY1YWwzTlpYaW13OTJxQzZ0cXQ3UkhybXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTM4MzI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNl94NjQtc2V0dXAuZXhlCjZKQzJyUWZwQ0NEV3JzTTFKMU1ZWTZIMHJiaGFuSmJLOEEyNE03dldYTWg0M0UraHh4T3lGdkFSTEZodXdZUzlqWFlVVlN3V2JWUmU3ZXhYOUVxZ0R3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXBUOWZxaTErWllVZ0Z6MGJoaDdxV3FodDFRZXNUWEFFNkRwWEZ3U3QxTThlblZCOEVzb2ZvWm5BRzdZM0RzSVN5K29UUGNBMFJRd0NXY0pNSm9XN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjE2MzY4CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuN194NjQtc2V0dXAuZXhlCmd4Z3AzZklGWndVdDZqM0xERkphSEFaZEtVTFhVUFd0S09FY1VCUHlkVU5QT0I0Y3FPcXdCZVRHQ200R0h1YlFJaDZQVWgvYTJ1WlVtMFZpQWgrSUJRPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.3.7/New.Hampshire.Roleplay_2.3.7_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZWtuY3RFK2FYWFRZN1VLM2ttWWNuTjhhZ2RYanMydk9tL2lId3BManExdVJka0t3K29jbnVOSk5mRkFzKzY1YWwzTlpYaW13OTJxQzZ0cXQ3UkhybXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTM4MzI2CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuNl94NjQtc2V0dXAuZXhlCjZKQzJyUWZwQ0NEV3JzTTFKMU1ZWTZIMHJiaGFuSmJLOEEyNE03dldYTWg0M0UraHh4T3lGdkFSTEZodXdZUzlqWFlVVlN3V2JWUmU3ZXhYOUVxZ0R3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.3.6/New.Hampshire.Roleplay_2.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXBUOWZxaTErWllVZ0Z6MGJoaDdxV3FodDFRZXNUWEFFNkRwWEZ3U3QxTThlblZCOEVzb2ZvWm5BRzdZM0RzSVN5K29UUGNBMFJRd0NXY0pNSm9XN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjE2MzY4CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjMuN194NjQtc2V0dXAuZXhlCmd4Z3AzZklGWndVdDZqM0xERkphSEFaZEtVTFhVUFd0S09FY1VCUHlkVU5QT0I0Y3FPcXdCZVRHQ200R0h1YlFJaDZQVWgvYTJ1WlVtMFZpQWgrSUJRPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.3.7/New.Hampshire.Roleplay_2.3.7_x64-setup.exe"
     }
   }
 }
