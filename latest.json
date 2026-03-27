@@ -1,15 +1,15 @@
 {
-  "version": "2.4.7",
-  "notes": "Updated map to latest image\nAdded building numbers to improve call location accuracy\nFixed styling issues with overlay notifications and documents\nVarious bug fixes and improvements",
-  "pub_date": "2026-03-27T11:56:55.989Z",
+  "version": "2.4.8",
+  "notes": "Fixed stuck notification on overlay\nUpdated map to latest image\nAdded building numbers to improve call location accuracy\nFixed styling issues with overlay notifications and documents\nVarious bug fixes and improvements",
+  "pub_date": "2026-03-27T22:48:39.539Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXU3TjdKaEY5cFBWc0J2dGdLN2pLWm5mSUZOSjhrOWc2djJ3NDFQc1FQUW9NQmtoSkllWXJ5SGd3amJZcnc3Y2JmZ25xamdZSzVyM2hRT1FkYmVKdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjEyNjEwCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjQuN194NjQtc2V0dXAuZXhlClBMcHd0bWw1UjdoM0cwZG1ZK1pmWVI4OFlyQWF0RFFDWlE5ekh5T0NYQU4veFh2VEdjYktuU3p3N3paUEJYOXo2MzNsd25RdE9veCtwSnNwdFdDd0F3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.4.7/New.Hampshire.Roleplay_2.4.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXVKTGtDcTh2VHFzNVQ4TmJvWVZGOEkyVk93STJGaTdaZ1ZlQ2d2c1RJUGhCWW5SRnpwVHRFcFpLdjAxQnJNTUFwK1ptdUdUcW55RXU5OHg1bWViTVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjUxNzE0CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjQuOF94NjQtc2V0dXAuZXhlCnhHVW5mNlV0dExKaTgrbXhiVmlYRFIyWjNsQklRNWU4OWg2MDh4U3FOZUFtaCtkOVFQaTlrbWlzalN2RDNvTU9hYUk5ZWlLMU0ydGF4dC9ZajFTMUJBPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.4.8/New.Hampshire.Roleplay_2.4.8_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXU3TjdKaEY5cFBWc0J2dGdLN2pLWm5mSUZOSjhrOWc2djJ3NDFQc1FQUW9NQmtoSkllWXJ5SGd3amJZcnc3Y2JmZ25xamdZSzVyM2hRT1FkYmVKdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjEyNjEwCWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjQuN194NjQtc2V0dXAuZXhlClBMcHd0bWw1UjdoM0cwZG1ZK1pmWVI4OFlyQWF0RFFDWlE5ekh5T0NYQU4veFh2VEdjYktuU3p3N3paUEJYOXo2MzNsd25RdE9veCtwSnNwdFdDd0F3PT0K",
-      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.4.7/New.Hampshire.Roleplay_2.4.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK2d4ck5sVlZFZXVKTGtDcTh2VHFzNVQ4TmJvWVZGOEkyVk93STJGaTdaZ1ZlQ2d2c1RJUGhCWW5SRnpwVHRFcFpLdjAxQnJNTUFwK1ptdUdUcW55RXU5OHg1bWViTVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjUxNzE0CWZpbGU6TmV3IEhhbXBzaGlyZSBSb2xlcGxheV8yLjQuOF94NjQtc2V0dXAuZXhlCnhHVW5mNlV0dExKaTgrbXhiVmlYRFIyWjNsQklRNWU4OWg2MDh4U3FOZUFtaCtkOVFQaTlrbWlzalN2RDNvTU9hYUk5ZWlLMU0ydGF4dC9ZajFTMUJBPT0K",
+      "url": "https://github.com/gh-0st-145/qcrp-cad/releases/download/v2.4.8/New.Hampshire.Roleplay_2.4.8_x64-setup.exe"
     }
   }
 }
